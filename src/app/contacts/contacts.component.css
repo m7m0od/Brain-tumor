@@ -1,0 +1,54 @@
+.backkk{background-image: URL("assets/images/backkk.jpg"); background-size: 100% 100%;height: 100vh ;}
+.ll{background-color: rgba(42,63,85,0.6);}
+.backGd{background-color: #F4F0F1;}
+.content{position: relative;}
+.min-contentt{position: absolute;top:38%;width:90%;margin-left: 80px;}
+.COLORWHITE{color: #FFF;}
+.comment-c,.comment-n{float: left;}
+.comment-n{margin-right: 0px;width: 150px;text-align:center;position: relative;top: 10px;}
+.comment-c{width: calc(100% - 150px);padding: 10px;}
+.baccForHeadone{background: linear-gradient(#E84E7F,#E58660);margin: 10px;}
+.baccForHeadtwo{background: linear-gradient(#D761E2,#7B4BCE);margin: 10px;box-shadow: 10px 15px 15px rgb(148, 146, 146);}
+.baccForHeadzero{background: linear-gradient(#00B5E0,#00F3DD);margin: 10px;}
+.clr{clear: both;}
+.pyT{padding-top: 80px;}
+.pForHead{padding-top: 75px;}
+.spanForHead{color: #EFEFEF;font-weight: bold;}
+.pargForHead{color: #FFF;}
+@media screen and (max-width:1024px) {
+    .min-contentt{width: 75%;}
+    .lllllll{display: none;}
+    .pyT{padding-top: 50px;}
+    .min-contentt{margin-right: 80px;}
+    .bgInfo{display: none;}
+    .nonn{display: block!important;}
+    .min-contentt{margin-left: 0;}
+    .baccForHeadtwo{box-shadow: 0 0 0 0 transparent;}
+    
+}
+
+
+
+
+
+
+.newS{background-color: #423F3F;background-image: URL("assets/images/backkk.jpg"); background-size: 100% 100%;overflow: hidden;}
+
+.Content .mContent,.newS h1,.newS p{color: #FFF;}
+
+.lll{background-color: rgba(42,63,85,0.8);}
+.second{background-color: #EEE;padding: 12px;border: 1px #423F3F solid;}
+.con{padding: 8px;border: 1px solid #76b5c5;}
+.first{padding: 5px;}
+.first .pull-right{float: right;}
+.second a{background-color: #76b5c5;padding: 5px;color: #FFF;margin-left: 5px;text-decoration: none;border-radius: 5px;}
+.second a{margin-left: 5px;}
+
+.forSpanColor{padding: 10px;background-color: #1e81b0;border-radius: 5px;color: #FFF;}
+.forMargin{margin: 10px;}
+.active{color: hotpink;}
+.order-first span{cursor: pointer;}
+
+.linkContent{position: relative;overflow: hidden;padding: 5px;}
+.linkContent .pull-right{position: absolute;top: 12px;right: -120px;transition: right 0.5s;}
+.linkContent:hover .pull-right{top: 12px;right: 8px;}

@@ -1,0 +1,29 @@
+.backkk{background-image: URL("assets/images/backkk.jpg"); background-size: 100% 100%;height: 100vh;}
+.ll{background-color: rgba(42,63,85,0.6);}
+.content{position: relative;}
+.min-contentt{position: absolute;top:40%;margin-left: 80px;}
+.COLORWHITE{color: #FFF;}
+
+.bgInfo{position: absolute;top: 86%;width: 84%;}
+.for-shadow{box-shadow: 10px 15px 15px rgb(148, 146, 146);background-color: #FFF;}
+.hrH{height: 5px;}
+.pFive{padding: 70px;}
+.pyy{padding-top: 280px;}
+.caro{background-color: #FAF9FE;width: 450px;padding: 20px;}
+.Content{margin: auto;background-color: #FFFFFF;}
+.Content:hover{box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);}
+.Content:hover .imgContent{border: #31D2F2 2px solid;}
+.Content:hover .pContent{color: #31D2F2;}
+
+.shadoww:hover{box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);}
+
+.forPadding{padding: 12px;}
+.forwidthREs a img{width: 312px;height: 312px;}
+.fsss{font-size: 18px;}
+@media screen and (max-width:765px) {
+    .pyy{padding-top: 50px;}
+    .min-contentt{margin-right: 80px;}
+    .bgInfo{display: none;}
+    .nonn{display: block!important;}
+    .min-contentt{margin-left: 0;}
+}
